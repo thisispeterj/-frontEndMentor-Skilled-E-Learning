@@ -235,7 +235,7 @@ footer .button:hover::before {
 		max-width: 33rem;
 	}
 	.hero__img {
-		margin-top: -9rem;
+		margin-top: -8rem;
 		margin-right: -15rem;
 	}
 	/* COURSES STYLES */
@@ -260,8 +260,8 @@ footer .button:hover::before {
 		font-size: 18px;
 	}
 	.hero__img {
-		margin-top: -15rem;
-		margin-right: -33rem;
+		margin-top: -10rem;
+		margin-right: -25rem;
 	}
 	/* COURSES */
 	.courses {
